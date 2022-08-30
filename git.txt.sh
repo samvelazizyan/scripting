@@ -1,5 +1,5 @@
 #!bin/bash
-asd
+
 
 var=8
 var1=7
